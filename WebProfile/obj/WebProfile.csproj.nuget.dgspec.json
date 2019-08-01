@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marco\\Source\\Repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj": {}
+    "C:\\Users\\Marco\\source\\repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marco\\Source\\Repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj": {
+    "C:\\Users\\Marco\\source\\repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marco\\Source\\Repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\source\\repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj",
         "projectName": "WebProfile",
-        "projectPath": "C:\\Users\\Marco\\Source\\Repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj",
+        "projectPath": "C:\\Users\\Marco\\source\\repos\\KrugerMP\\ProfileHost\\WebProfile\\WebProfile.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marco\\Source\\Repos\\KrugerMP\\ProfileHost\\WebProfile\\obj\\",
+        "outputPath": "C:\\Users\\Marco\\source\\repos\\KrugerMP\\ProfileHost\\WebProfile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
