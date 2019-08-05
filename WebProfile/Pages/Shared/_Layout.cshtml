@@ -16,9 +16,9 @@
         <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
     </environment>
 </head>
-<body style="background-color:gray;">
-    <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container">
+<body style="background-image:url('../images/starry_sky_clouds_sunset_120716_1920x1080.jpg');">
+    <nav class="navbar navbar-inverse navbar-fixed-bottom bg-info">
+        <div class="container-fluid navbar">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -29,8 +29,7 @@
                 <a asp-page="/Index" class="navbar-brand">Marco-Pieter Kruger</a>
             </div>
             <div class="navbar-collapse collapse">
-                <ul class="nav navbar-nav">
-                    <li><a asp-page="/Index">Home</a></li>
+                <ul class="nav navbar-nav navbar-right">
                     <li><a asp-page="/About">About</a></li>
                     <li><a asp-page="/Contact">Contact</a></li>
                 </ul>
@@ -44,7 +43,7 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2019 - WebProfile</p>
+            <p>&copy; 2019 - Powered By Azure And ASP.NET Core</p>
         </footer>
     </div>
 
